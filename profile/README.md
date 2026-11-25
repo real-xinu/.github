@@ -34,7 +34,7 @@ Xinu.  You can then launch Xinu in a QEMU window.
 
    For more information, look at the Xinu web page:
 
-<https://xinu.cs.purdue.edu/>
+> <https://xinu.cs.purdue.edu/>
 
    If you have questions, you can send a message to <xinu-info@cs.purdue.edu>
 
